@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "cipher-core",
+    "cipher-server",
+    "cipher-resolver",
+    "cipher-api",
+    "cipher-cli",
+    "cipher-gui"
+]
+resolver = "2"
