@@ -1,9 +1,6 @@
 # Cipher: Next-Gen Authoritative DNS Server
+[![Build Status](https://img.shields.io/github/actions/workflow/status/ghostkellz/cipher/ci.yaml?branch=main&label=build)](https://github.com/youruser/zendns/actions)
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-org/cypher/ci.yml?branch=main)](https://github.com/your-org/cypher/actions)
-[![Crates.io](https://img.shields.io/crates/v/cypher-dns.svg)](https://crates.io/crates/cypher-dns)
-[![Docs](https://img.shields.io/badge/docs-online-blue.svg)](https://your-org.github.io/cypher)
-[![Code Coverage](https://img.shields.io/codecov/c/github/your-org/cypher)](https://codecov.io/gh/your-org/cypher)
 
 ---
 
